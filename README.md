@@ -21,11 +21,5 @@ To foster a culture of knowledge-sharing and community-driven learning, helping 
 ### 🤝 Contributing & Feedback
 Found a typo, want to improve a query, or have a suggestion? Contributions, issues, and pull requests are always welcome! Feel free to fork and star ⭐ this repo if you find it helpful.
 
----
-
-### 📫 Let's Connect!
-Let's grow together and build an amazing developer community:
-* 💼 LinkedIn: [Your LinkedIn Profile Link]
-* 🐙 GitHub: [Your GitHub Profile Link]
 
 ⭐ Don't forget to give this repo a star if it helped you on your learning journey! ✨
